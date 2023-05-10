@@ -38,6 +38,3 @@ lerna-debug.log*
 
 # Clinic.js Doctor
 .clinic
-
-# Github Actions
-.github
