@@ -15,7 +15,7 @@ jobs:
               id: meta
               uses: docker/metadata-action@v4
               with:
-                images: ghcr.io/uldren/pablish-packages/education-nestjs
+                images: ghcr.io/uldren/publish-packages/top-api
                 tags: type=sha
             - name: Login to GHCR
               uses: docker/login-action@v2
