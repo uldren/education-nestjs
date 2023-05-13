@@ -38,3 +38,6 @@ lerna-debug.log*
 
 # Clinic.js Doctor
 .clinic
+
+# images folder
+uploads
