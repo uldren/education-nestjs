@@ -24,4 +24,4 @@
 
 ## Description
 
-Курс [NestJS](https://github.com/nestjs/nest) - с нуля, современный backend на TypeScript и Node.js от PurpleSchool
+[Курс](https://learn.purpleschool.ru/public/product/2bb63683-5d62-4c14-938d-641e8bd96454/tariffs?redirect_from_tariff=/public/products) [NestJS](https://github.com/nestjs/nest) - с нуля, современный backend на TypeScript и Node.js от PurpleSchool
